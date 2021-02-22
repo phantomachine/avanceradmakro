@@ -1,4 +1,4 @@
-# macroteoria
+# advanced macroeconomics
 
 Jupyter notebooks and codes for first-year masters macro taught in semester one at the RSE end of econ world.
 
